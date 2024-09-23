@@ -5,4 +5,4 @@ pip3 install ultralytics opencv-python matplotlib
 
 
 
-python3 test.py
+python3 holodos.py
